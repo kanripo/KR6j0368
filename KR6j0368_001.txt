@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:05.311170
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:59
 #+TITLE: 轉法輪菩薩摧魔怨敵法
 #+PROPERTY: CBETA_ID T20n1150
 #+PROPERTY: ID KR6j0368
