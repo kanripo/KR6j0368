@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:04.754747
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:59
 #+TITLE: 轉法輪菩薩摧魔怨敵法
 #+PROPERTY: CBETA_ID T20n1150
 #+PROPERTY: ID KR6j0368
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1150
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0368_T_001-0609b> 
 #+PROPERTY: JUAN 1
 ¶
-No.1150¶
-
- 轉法輪菩薩摧魔怨敵法¶
+No. 1150¶
+轉法輪菩薩摧魔怨敵法¶
 ¶
 大興善寺三藏沙門大廣智¶
 不空奉　詔譯¶
